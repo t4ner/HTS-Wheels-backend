@@ -6,7 +6,7 @@
 
 ##### Frontend: 
 
-[![Rentacar Frontend](https://github-readme-stats.vercel.app/api/pin/?username=harnylmzz&repo=rentacarFrontend&show_owner=true)](https://github.com/harnylmzz/rentacarFrontend)
+[![Rentacar Frontend](https://github-readme-stats.vercel.app/api/pin/?username=t4ner&repo=HTS-Wheels-frontend&show_owner=true)](https://github.com/t4ner/HTS-Wheels-frontend)
 
 --- 
 
@@ -63,16 +63,6 @@
 2. Creating a Database
 3. Configuring Connection Information
 
-#### ■ Cloning the Project:
-
-1. Use the following command in the terminal or command prompt to clone the project:
-   
- ##### git clone https://github.com/harnylmzz/rent-a-car.git
-2. Installing Dependencies:
-
- ##### cd rent-a-car
- ##### mvn clean install
-
 ### Running the Application
 
 To start the Spring Boot application, follow these steps:
@@ -87,7 +77,7 @@ To start the Spring Boot application, follow these steps:
 
 
 ## MIT License 
-#### Copyright (c) [2023] [[Harun Yılmaz](https://github.com/harnylmzz), [Şehmus Ekin](https://github.com/sehmusekin), [Taner Dökmetaş](https://github.com/t4ner)]
+#### Copyright (c) [Taner Dökmetaş](https://github.com/t4ner)], [2023] [[Harun Yılmaz](https://github.com/harnylmzz), [Şehmus Ekin](https://github.com/sehmusekin), 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
