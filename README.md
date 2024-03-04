@@ -77,7 +77,7 @@ To start the Spring Boot application, follow these steps:
 
 
 ## MIT License 
-#### Copyright (c) [Taner Dökmetaş](https://github.com/t4ner)], [Harun Yılmaz](https://github.com/harnylmzz), [Şehmus Ekin](https://github.com/sehmusekin), 
+#### Copyright (c) [Taner Dökmetaş](https://github.com/t4ner), [Harun Yılmaz](https://github.com/harnylmzz), [Şehmus Ekin](https://github.com/sehmusekin)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
